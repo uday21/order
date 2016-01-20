@@ -1,0 +1,10 @@
+{
+  "project_name": "Order Food Now - PHP",
+  "project_description": "Order Food Now Application.",
+  "show_files": [
+    "index.php",
+    "app.yaml"
+  ],
+  "read_only_demo_url": "https://try-php-demo-dot-cloud-playground.appspot.com/",
+  "download_filename": "appengine-try-php.zip"
+}
